@@ -1,0 +1,41 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+.header{
+    width: 100%;
+    margin: 0px;
+    font-size: large;
+}
+.input_class{
+    margin: 5px;
+    border-radius: 5px;
+    width: 20%;
+    color: green;
+    background-color: rgb(255, 180, 252);
+    border: 4px dotted rgb(133, 109, 255);
+}
+.object_name_label{
+    font-weight: bold;
+    font-size: 15px;
+}
+canvas
+  {
+    border:5px solid black;
+    border-radius:20px;
+    animation-name: example;
+    animation-duration: 4s;
+    margin-top: 100px;
+    animation-iteration-count:infinite;
+   
+}
+@keyframes example {
+
+  from {box-shadow: 1px 1px 38px rgb(0, 247, 255);}
+  to {box-shadow: 1px 1px 38px rgb(193, 192, 255);}
+}
+p{
+    color: black;
+    margin-bottom: 0px;
+    font-size: small;
+}
