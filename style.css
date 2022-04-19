@@ -1,6 +1,7 @@
 body{
     background-position: center;
     background-size: cover;
+    font-family: 'Raleway Dots', cursive;
 }
 .header{
     width: 100%;
@@ -14,6 +15,7 @@ body{
     color: green;
     background-color: rgb(255, 180, 252);
     border: 4px dotted rgb(133, 109, 255);
+    font-family: 'Square Peg', cursive !important;
 }
 .object_name_label{
     font-weight: bold;
