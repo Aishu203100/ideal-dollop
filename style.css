@@ -1,25 +1,29 @@
 body{
     background-position: center;
     background-size: cover;
-    font-family: 'Raleway Dots', cursive;
+    font-family: 'Neonderthaw', cursive;
+    color:white;
+}
+#headinnnn{
+    font-family:
 }
 .header{
     width: 100%;
     margin: 0px;
-    font-size: large;
+    font-size:50px;
 }
 .input_class{
     margin: 5px;
     border-radius: 5px;
     width: 20%;
-    color: green;
+    color: rgb(0, 4, 128);
     background-color: rgb(255, 180, 252);
     border: 4px dotted rgb(133, 109, 255);
-    font-family: 'Square Peg', cursive !important;
+    font-family: 'Megrim', cursive !important;
 }
 .object_name_label{
     font-weight: bold;
-    font-size: 15px;
+    font-size: 30px;
 }
 canvas, input
   {
@@ -37,7 +41,7 @@ canvas, input
   to {box-shadow: 1px 1px 38px rgb(193, 192, 255);}
 }
 p{
-    color: black;
+    color: white;
     margin-bottom: 0px;
-    font-size: small;
+    font-size: medium;
 }
