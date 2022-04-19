@@ -19,7 +19,7 @@ body{
     font-weight: bold;
     font-size: 15px;
 }
-canvas, text-input
+canvas, input
   {
     border:5px solid black;
     border-radius:20px;
